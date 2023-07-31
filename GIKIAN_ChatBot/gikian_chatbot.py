@@ -21,7 +21,7 @@ Original file is located at
 """### Get HUGGINGFACEHUB_API_KEY"""
 
 import os
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "HUGGINGFACEHUB_API_TOKEN"
 
 """##Upload Text File containing URLs"""
 
